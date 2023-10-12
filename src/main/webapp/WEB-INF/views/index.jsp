@@ -5,7 +5,7 @@
     <h2>Tomcat server SCM test </h2>
     <hr>
     <h1>${msg}</h1>
-    <h1>my name song)</h1>
+    <h1>my name qwer12 </h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.1</h3>
 </body>
